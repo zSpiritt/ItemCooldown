@@ -1,0 +1,7 @@
+# SUPPORT : {PLAYER}
+items:
+  minecraft:slimeball:
+    removeItem: true
+    commands:
+      - "give {PLAYER} diamond 1"
+

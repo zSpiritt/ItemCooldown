@@ -1,0 +1,8 @@
+name: Spirit-ItemCommand
+main: ItemCommand\Main
+
+author: Spirit
+version: 1.0.0
+api: 5.0.0
+price: 1€
+# for buy this plugin mp zspiritl on discord
