@@ -1,5 +1,5 @@
-name: Spirit-ItemCommand
-main: ItemCommand\Main
+name: Spirit-ItemCooldown
+main: ItemCooldown\Main
 
 author: Spirit
 version: 1.0.0
